@@ -15,15 +15,6 @@
     </dependency>
   </dependencies>
   
-  <distributionManagement>
-  <snapshotRepository>
-  <id>SnapshotData</id>
-  <url>http://192.168.43.93:8081/repository/SnapshotData/</url>
-  </snapshotRepository>
-<repository>
-<id>ReleaseData</id>
-<url>http://192.168.43.93:8081/repository/ReleaseData/</url>
-</repository>
-</distributionManagement>
+ 
 
 </project>
