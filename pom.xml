@@ -2,10 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.saidulu</groupId>
   <artifactId>HelloWorld</artifactId>
-  <version>1.0.6-Saidulu</version>
+  <version>1.0.7-Saidulu</version>
   <packaging>war</packaging>
   
-#############123456789#############:  
+#############1234567891#############:  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
